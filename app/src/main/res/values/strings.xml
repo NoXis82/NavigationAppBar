@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">NavigationAppBar</string>
+    <string name="open_notes">Записная книжка</string>
+    <string name="pay_forms">Платёж</string>
+    <string name="tasks_date">Дата выполнения задачи</string>
+    <string name="delivery">Адрес доставки</string>
+    <string name="toast_open_notes">Открыта записная книжка</string>
+    <string name="toast_open_pay">Открыта форма оплаты</string>
+    <string name="toast_open_tasks">Открыт календарь выполнения задачи</string>
+    <string name="toast_open_delivery">Открыта форма выбора адреса</string>
+    <string name="btnSaveNote">Сохранить</string>
+    <string name="valueSave">данные сохранены</string>
+    <string name="notFound">Не найдено</string>
+    <string name="inputMoney">Ввод денег</string>
+    <string name="inputInfo">Информация об оплате</string>
+    <string name="btnPay">Оплатить</string>
+    <string name="bankCardChkBx">С банковской карты</string>
+    <string name="mobilePhoneChkBx">С мобильного телефона</string>
+    <string name="cashAddressChkBx">Наличными по адресу</string>
+    <string name="pay_form_empty">Заполните форму</string>
+    <string name="chooseStartDate">Дата-время старта задачи:</string>
+    <string name="chooseEndDate">Дата-время окончания задачи:</string>
+    <string name="btnOK">OK</string>
+    <string name="error">Ошибка</string>
+    <string name="start">старт:</string>
+    <string name="end">окончание:</string>
+    <string name="showAddress">Показать адрес</string>
+    <string name="log_position">Выбрана позиция:</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
